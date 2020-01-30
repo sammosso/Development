@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+        A Webpage.
+        </title>
+    <style>
+        .makeBig {
+            font-size: 25px;
+        }
+    
+    
+    </style>    
+    </head>
+
+    <body>
+        <p id="LittleDiv">Lorem ipsum lkj dflkj dsflkjf</p>
+
+        <input type="button" onclick="makeBig()" value="button">
+        
+        <script>
+            var fElement=document.getElementById("LittleDiv");
+                function makeBig(){
+                    fElement.style.fontSize = "25px";
+                    fElement.style.fontFamily = "Helvetica";
+                    fElement.style.color = "white";
+                    fElement.classList.toggle("makeBig");
+                    document.body.style.backgroundColor = "#3D86B2";
+                    document.title = "A BLUE Webpage.";
+                }
+            </script>
+
+    </body>
+</HTML>
