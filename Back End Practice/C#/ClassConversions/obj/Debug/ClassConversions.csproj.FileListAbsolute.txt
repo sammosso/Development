@@ -1,0 +1,6 @@
+C:\Users\Student\OneDrive\Classroom Examples\ClassConversions\obj\Debug\ClassConversions.csprojAssemblyReference.cache
+C:\Users\Student\OneDrive\Classroom Examples\ClassConversions\bin\Debug\ClassConversions.exe.config
+C:\Users\Student\OneDrive\Classroom Examples\ClassConversions\bin\Debug\ClassConversions.exe
+C:\Users\Student\OneDrive\Classroom Examples\ClassConversions\bin\Debug\ClassConversions.pdb
+C:\Users\Student\OneDrive\Classroom Examples\ClassConversions\obj\Debug\ClassConversions.exe
+C:\Users\Student\OneDrive\Classroom Examples\ClassConversions\obj\Debug\ClassConversions.pdb
