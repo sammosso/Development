@@ -1,0 +1,6 @@
+C:\Users\Student\OneDrive\Classroom Examples\Palindrome\palindrome\bin\Debug\palindrome.exe.config
+C:\Users\Student\OneDrive\Classroom Examples\Palindrome\palindrome\bin\Debug\palindrome.exe
+C:\Users\Student\OneDrive\Classroom Examples\Palindrome\palindrome\bin\Debug\palindrome.pdb
+C:\Users\Student\OneDrive\Classroom Examples\Palindrome\palindrome\obj\Debug\palindrome.csprojAssemblyReference.cache
+C:\Users\Student\OneDrive\Classroom Examples\Palindrome\palindrome\obj\Debug\palindrome.exe
+C:\Users\Student\OneDrive\Classroom Examples\Palindrome\palindrome\obj\Debug\palindrome.pdb
