@@ -1,0 +1,14 @@
+C:\Users\Student\OneDrive\Classroom Examples\MyNoteApp\obj\Debug\MyNoteApp.csprojAssemblyReference.cache
+C:\Users\Student\OneDrive\Classroom Examples\MyNoteApp\obj\Debug\MainWindow.g.cs
+C:\Users\Student\OneDrive\Classroom Examples\MyNoteApp\obj\Debug\App.g.cs
+C:\Users\Student\OneDrive\Classroom Examples\MyNoteApp\obj\Debug\MyNoteApp_MarkupCompile.cache
+C:\Users\Student\OneDrive\Classroom Examples\MyNoteApp\obj\Debug\MyNoteApp_MarkupCompile.lref
+C:\Users\Student\OneDrive\Classroom Examples\MyNoteApp\bin\Debug\MyNoteApp.exe.config
+C:\Users\Student\OneDrive\Classroom Examples\MyNoteApp\bin\Debug\MyNoteApp.exe
+C:\Users\Student\OneDrive\Classroom Examples\MyNoteApp\bin\Debug\MyNoteApp.pdb
+C:\Users\Student\OneDrive\Classroom Examples\MyNoteApp\obj\Debug\MainWindow.baml
+C:\Users\Student\OneDrive\Classroom Examples\MyNoteApp\obj\Debug\MyNoteApp.g.resources
+C:\Users\Student\OneDrive\Classroom Examples\MyNoteApp\obj\Debug\MyNoteApp.Properties.Resources.resources
+C:\Users\Student\OneDrive\Classroom Examples\MyNoteApp\obj\Debug\MyNoteApp.csproj.GenerateResource.cache
+C:\Users\Student\OneDrive\Classroom Examples\MyNoteApp\obj\Debug\MyNoteApp.exe
+C:\Users\Student\OneDrive\Classroom Examples\MyNoteApp\obj\Debug\MyNoteApp.pdb

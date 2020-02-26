@@ -1,0 +1,61 @@
+﻿<Window x:Class="MyNoteApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MyNoteApp"
+        mc:Ignorable="d"
+        Title="MyNoteApp" Height="450" Width="800">
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="#FF1B1B1B" Offset="1"/>
+                <GradientStop Color="#FF24252B"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Button x:Name="load" Content="LOAD" Margin="77,105,569,0" VerticalAlignment="Top" Width="150" Height="50" HorizontalAlignment="Center" FontFamily="Tw Cen MT" FontSize="16" BorderBrush="#FF8F8F8F" Foreground="White" Click="load_Click">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FF2E2E34" Offset="0"/>
+                    <GradientStop Color="#FF1C1C1C" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <Button x:Name="save" Content="SAVE" Margin="77,160,569,0" VerticalAlignment="Top" Width="150" Height="50" HorizontalAlignment="Center" FontFamily="Tw Cen MT" FontSize="16" BorderBrush="#FF8F8F8F" Foreground="White" Click="save_Click">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FF2E2E34" Offset="0"/>
+                    <GradientStop Color="#FF1C1C1C" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <Button x:Name="cancel" Content="CANCEL" Margin="77,215,569,0" VerticalAlignment="Top" Width="150" Height="50" HorizontalAlignment="Center" FontFamily="Tw Cen MT" FontSize="16" BorderBrush="#FF8F8F8F" Foreground="White" Click="cancel_Click" IsCancel="True">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FF2E2E34" Offset="0"/>
+                    <GradientStop Color="#FF1C1C1C" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <Button x:Name="exit" Content="EXIT" Margin="77,270,569,0" VerticalAlignment="Top" Width="150" Height="50" HorizontalAlignment="Center" FontFamily="Tw Cen MT" FontSize="16" BorderBrush="#FF8F8F8F" Foreground="White" Click="exit_Click">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FF2E2E34" Offset="0"/>
+                    <GradientStop Color="#FF1C1C1C" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <TextBox x:Name="Editor" Margin="272,46,59,0" AcceptsReturn="True" TextWrapping="Wrap" Text="Add Notes" VerticalAlignment="Top" Height="332" Width="465" FontFamily="Tw Cen MT" FontSize="16" TextChanged="Editor_TextChanged">
+            <TextBox.Foreground>
+                <SolidColorBrush Color="#FFD8D8D8" Opacity="0.375"/>
+            </TextBox.Foreground>
+            <TextBox.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FF1E1F21" Offset="1"/>
+                    <GradientStop Color="#FF1E1F21"/>
+                </LinearGradientBrush>
+            </TextBox.Background>
+        </TextBox>
+
+    </Grid>
+</Window>
