@@ -1,1 +1,1 @@
-This was my front end project. I ducplicated a website from scratch using HTML, CSS, and Bootstrap. 
+This was my front end project. I ducplicated a designed website from scratch using HTML, CSS, and Bootstrap to learn how to use the tools to create a resposive webpage. 
