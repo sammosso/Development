@@ -1,0 +1,11 @@
+C:\Users\Student\OneDrive\My Items\My Code\Back End Practice\C#\Practice\Practice\bin\Debug\netcoreapp3.0\Practice.exe
+C:\Users\Student\OneDrive\My Items\My Code\Back End Practice\C#\Practice\Practice\bin\Debug\netcoreapp3.0\Practice.deps.json
+C:\Users\Student\OneDrive\My Items\My Code\Back End Practice\C#\Practice\Practice\bin\Debug\netcoreapp3.0\Practice.runtimeconfig.json
+C:\Users\Student\OneDrive\My Items\My Code\Back End Practice\C#\Practice\Practice\bin\Debug\netcoreapp3.0\Practice.runtimeconfig.dev.json
+C:\Users\Student\OneDrive\My Items\My Code\Back End Practice\C#\Practice\Practice\bin\Debug\netcoreapp3.0\Practice.dll
+C:\Users\Student\OneDrive\My Items\My Code\Back End Practice\C#\Practice\Practice\bin\Debug\netcoreapp3.0\Practice.pdb
+C:\Users\Student\OneDrive\My Items\My Code\Back End Practice\C#\Practice\Practice\obj\Debug\netcoreapp3.0\Practice.csprojAssemblyReference.cache
+C:\Users\Student\OneDrive\My Items\My Code\Back End Practice\C#\Practice\Practice\obj\Debug\netcoreapp3.0\Practice.AssemblyInfoInputs.cache
+C:\Users\Student\OneDrive\My Items\My Code\Back End Practice\C#\Practice\Practice\obj\Debug\netcoreapp3.0\Practice.AssemblyInfo.cs
+C:\Users\Student\OneDrive\My Items\My Code\Back End Practice\C#\Practice\Practice\obj\Debug\netcoreapp3.0\Practice.dll
+C:\Users\Student\OneDrive\My Items\My Code\Back End Practice\C#\Practice\Practice\obj\Debug\netcoreapp3.0\Practice.pdb
